@@ -1,0 +1,9 @@
+[submodule "cpu-scheduling"]
+	path = cpu-scheduling
+	url = https://github.com/ivanleopoldo/cpu-scheduling
+[submodule "io-management"]
+	path = io-management
+	url = https://github.com/ivanleopoldo/io-management
+[submodule "page_replacement_algorithms"]
+	path = page_replacement_algorithms
+	url = https://github.com/ivanleopoldo/page_replacement_algorithms
